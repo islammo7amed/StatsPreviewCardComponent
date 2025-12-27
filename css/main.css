@@ -44,7 +44,6 @@ article {
 .overlay {
 	width: 100%;
 	height: 100%;
-	background-color: red;
 	border-radius: 0.5rem 0.5rem 0 0;
 	background-color: hsla(277, 64%, 61%, 50%);
 }
